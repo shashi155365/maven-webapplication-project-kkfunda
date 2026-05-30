@@ -46,7 +46,7 @@
 <body>
 
 <header>
-    <h1>🚀 Hello to KK FUNDA DevSecOps AWS Portal 🚀</h1>
+    <h1>🚀 Welcome to DevSecOps AWS Portal 🚀</h1>
     <h3>Training | Development | Consulting</h3>
 </header>
 
