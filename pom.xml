@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>KK FUNDA Releases Nexus Repository</name>
-	      <url>http://15.207.98.18:8081/repository/shashi-release/</url>
+	      <url>http://13.233.131.141/:8081/repository/shashi-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>KK FUNDA Snapshot Nexus Repository </name>
-	      <url>http://15.207.98.18:8081/repository/shashi-snapshot/</url>
+	      <url>http://13.233.131.141:8081/repository/shashi-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
