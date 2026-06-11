@@ -30,7 +30,7 @@ node
 
       curl -u kk:password \
 --upload-file /var/lib/jenkins/workspace/New-scriptedway-pipeline/target/maven-web-application.war \
-"http://13.203.232.197:8080/manager/text/deploy?path=/maven-web-application&update=true"
+"http://3.110.51.91:8080/manager/text/deploy?path=/maven-web-application&update=true"
           
         """
     }
