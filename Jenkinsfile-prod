@@ -3,7 +3,7 @@
 node
 {
 
-def mavenHome= tool name: "maven-3.9.0"
+def mavenHome= tool name: "maven-test"
 echo "git branch Name: ${env.BRANCH_NAME}"
 echo "build number: ${env.BUILD_NUMBER}"
 
