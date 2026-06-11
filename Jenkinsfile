@@ -29,7 +29,7 @@ node
       sh """
 
       curl -u kk:password \
---upload-file /var/lib/jenkins/workspace/New-scriptedway-pipeline/target/maven-web-application.war \
+--upload-file /var/lib/jenkins/workspace/scriptedway-pipeline-1/target/maven-web-application.war \
 "http://13.204.75.64:8080/manager/text/deploy?path=/maven-web-application&update=true"
           
         """
