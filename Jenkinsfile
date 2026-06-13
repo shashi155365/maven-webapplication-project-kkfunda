@@ -1,7 +1,7 @@
 node
 {
 
-   def mavenHome= tool name: "maven-test"
+   def mavenHome= tool name: "maven"
    stage('git checkout')
    {
       git branch: 'master', url: 'https://github.com/shashi155365/maven-webapplication-project-kkfunda.git'
