@@ -46,7 +46,7 @@
 <body>
 
 <header>
-    <h1>🚀 Welcome to DevOps and AWS Page 🚀</h1>
+    <h1>🚀 Welcome to DevOps and AWS Pages 🚀</h1>
     <h3>Training | Development | Consulting</h3>
 </header>
 
